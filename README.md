@@ -11,7 +11,7 @@
 
 
 
-
+# Horario de clases
 |       | Lunes                             | Martes | Miercoles | Jueves | Viernes |
 |-------|-----------------------------------|--------|-----------|--------|---------|
 | 12:00 | Topicos avanzados de programacion |Topicos avanzados de programacion|           | Topicos avanzados de programacion       |         |
